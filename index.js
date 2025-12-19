@@ -1,1 +1,1 @@
-indexing file
+console.log("Civoryn indexing trigger");
